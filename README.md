@@ -2,9 +2,6 @@
 Server for the videotex system (Bildschirmtext)
 
 
-BTX-Server
-==========
-
 What is it?
 -----------
 
