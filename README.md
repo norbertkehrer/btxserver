@@ -2,11 +2,8 @@
 Server for the videotex system (Bildschirmtext)
 
 
-BTX-Server 
+BTX-Server
 ==========
-
-April 2016
-
 
 What is it?
 -----------
