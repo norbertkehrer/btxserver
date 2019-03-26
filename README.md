@@ -45,14 +45,14 @@ Example to start the server from the command line: node btx_server.js COM2 4800
 
 On the Videotex decoder you can then call up a Videotex page or enter a command like so:
 
-*nnnn# ... Show file / page nnnn on the Videotex decoder
-cls ...... Clear the screen
-dir ...... List directory
-ls ....... List directory
-cd ....... Change directory
-pwd ...... Print current directory
-log ...... Log the sent characters
-nolog .... Turn off the logging
+- *nnnn# ... Show file / page nnnn on the Videotex decoder
+- cls ...... Clear the screen
+- dir ...... List directory
+- ls ....... List directory
+- cd ....... Change directory
+- pwd ...... Print current directory
+- log ...... Log the sent characters
+- nolog .... Turn off the logging
 
 
 Norbert Kehrer, April 2016
