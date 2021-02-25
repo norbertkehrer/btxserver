@@ -54,7 +54,7 @@ On the Videotex decoder you can then call up a Videotex page or enter a command 
 
 Norbert Kehrer, April 2016
 
-http://members.aon.at/~nkehrer/
+https://norbertkehrer.github.io/index.html
 
 
 
